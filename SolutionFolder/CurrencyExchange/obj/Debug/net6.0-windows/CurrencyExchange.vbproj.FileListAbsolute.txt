@@ -1,0 +1,17 @@
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0-windows\CurrencyExchange.exe
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0-windows\CurrencyExchange.deps.json
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0-windows\CurrencyExchange.runtimeconfig.json
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0-windows\CurrencyExchange.dll
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0-windows\CurrencyExchange.pdb
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.vbproj.AssemblyReference.cache
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.Form1.resources
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.vbproj.GenerateResource.cache
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.AssemblyInfoInputs.cache
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.AssemblyInfo.vb
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.vbproj.CoreCompileInputs.cache
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.dll
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\refint\CurrencyExchange.dll
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.pdb
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.genruntimeconfig.cache
+C:\Users\cloni\OneDrive\Desktop\Shortcuts\CODE\ruhroh\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\ref\CurrencyExchange.dll
